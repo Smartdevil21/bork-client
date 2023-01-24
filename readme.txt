@@ -1,0 +1,1 @@
+Bork frontend optimzed for graphql

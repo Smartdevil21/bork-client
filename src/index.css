@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Cookie&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap");
+/* 
+font-family: 'Cookie', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+*/
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	min-height: 100vh;
+	width: 100%;
+	background-color: #ededed;
+}
+::-webkit-scrollbar {
+	display: none;
+}

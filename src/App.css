@@ -1,0 +1,31 @@
+.App{
+    width: 100%;
+    margin: auto;
+    min-height: 100vh;
+    position: relative;
+}
+.main_wrapper{
+    max-width: 1440px;
+    width: 100%;
+    display: flex;
+    background-color: #f8f8f8;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.feedback_wrapper{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100vh;
+}
+.sorry{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Montserrat', sans-serif;
+}
